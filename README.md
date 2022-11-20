@@ -30,7 +30,7 @@
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 <hr>
 
-## 🐴 My Hobby : <img align='right' src='https://media.tenor.com/Ge5zjJBIYLoAAAAC/jinx-flipzflops.gif' width='235'>
+## 🐴 My Hobby : <img align='right' src='https://media.tenor.com/Ge5zjJBIYLoAAAAC/jinx-flipzflops.gif' width='200'>
 
 - Read Manga
 - Play Football
