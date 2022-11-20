@@ -3,7 +3,7 @@
 - Hi, I’m thanakitth <br/>
 - I’m interested in Softwear Engineer <br/>
 - I’m studying at rajamangala university of technology lanna <br/>
-- Computer Engineering Department 
+  Computer Engineering Department 
 
 <hr>
 
