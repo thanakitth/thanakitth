@@ -1,7 +1,7 @@
 ## 🐱 About Me : <img align='right' src='https://media.tenor.com/tLs_ViApc7AAAAAC/shy-hi.gif' width='205'>
 
 - Hi, I’m thanakitth.
-- I’m studying at rajamangala university of technology lanna. <br/>
+- I’m studying at Rajamangala University of Technology Lanna Chiangmai. <br/>
   Computer Engineering Department.
 - I’m interested in Softwear Engineer.
 - I like to play games.
