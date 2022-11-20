@@ -1,9 +1,9 @@
 ## 🐱 About Me : <img align='right' src='https://media.tenor.com/tLs_ViApc7AAAAAC/shy-hi.gif' width='205'>
 
 - Hi, I’m thanakitth. <br/>
-- I’m interested in Softwear Engineer. <br/>
 - I’m studying at rajamangala university of technology lanna. <br/>
   Computer Engineering Department.
+- I’m interested in Softwear Engineer. <br/>
 - I like to play games.
 - I especially like rhythm games.
 <hr>
@@ -15,7 +15,7 @@
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/8dTrhzty3D)
 <hr>
 
-## 🦁 Domains :
+## 🦁 Wish to do :
 
 - Game Development
 - Web Development
