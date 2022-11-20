@@ -13,6 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uyumapyon0112/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bearychiki0112@gmail.com)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/8dTrhzty3D)
+<hr>
 
 ## 🦁 Domains :
 
@@ -47,6 +48,7 @@
 <img src='https://play-lh.googleusercontent.com/FucCT9Xisma57qo6oRvL3MSug0GjgHbgNMc0FkXJjvoMq3WtKiP3WcRAjDmnHT3jSmRo' width='100'>
 <img src='https://play-lh.googleusercontent.com/VuTHoRqnspERXcMTFa93D8wFw505soPTrcMSsnA57udFSaMJBJAR4IlD9LL-A-ux2Ts' width='100'>
 <img src='https://upload.wikimedia.org/wikipedia/en/4/42/Arcaea_app_icon.png' width='100'>
+<br>
 <img src='https://play-lh.googleusercontent.com/AId9Afqcps7INKxP8G8BbBo1ZKL1aVM8EBTzB7AhETefuiyVSiLDlF7CeCoNuuXqFL4=w240-h480-rw' width='100'>
 <img src='https://play-lh.googleusercontent.com/48aIBvL5-V35tjcxv7yRu72-aBikvEvkxJqreWI7zSrJBvWefqc9Mh7JgmuGqSTYe-0' width='100'>
 <img src='https://play-lh.googleusercontent.com/zudWVPxuyfmUzVq35ebQwdJ2MVrvGc9x7yIKGazxScMrVT2wZCdG9HVzDJpr0JkuoA1E' width='100'>
