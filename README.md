@@ -46,7 +46,6 @@
 <img src='https://play-lh.googleusercontent.com/FucCT9Xisma57qo6oRvL3MSug0GjgHbgNMc0FkXJjvoMq3WtKiP3WcRAjDmnHT3jSmRo' width='100'>
 <img src='https://play-lh.googleusercontent.com/VuTHoRqnspERXcMTFa93D8wFw505soPTrcMSsnA57udFSaMJBJAR4IlD9LL-A-ux2Ts' width='100'>
 <img src='https://upload.wikimedia.org/wikipedia/en/4/42/Arcaea_app_icon.png' width='100'>
-<br>
 <img src='https://play-lh.googleusercontent.com/AId9Afqcps7INKxP8G8BbBo1ZKL1aVM8EBTzB7AhETefuiyVSiLDlF7CeCoNuuXqFL4=w240-h480-rw' width='100'>
 <img src='https://play-lh.googleusercontent.com/48aIBvL5-V35tjcxv7yRu72-aBikvEvkxJqreWI7zSrJBvWefqc9Mh7JgmuGqSTYe-0' width='100'>
 <img src='https://play-lh.googleusercontent.com/zudWVPxuyfmUzVq35ebQwdJ2MVrvGc9x7yIKGazxScMrVT2wZCdG9HVzDJpr0JkuoA1E' width='100'>
