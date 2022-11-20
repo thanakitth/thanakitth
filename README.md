@@ -1,4 +1,4 @@
-## 🐱 About Me : <img align='right' src='https://media.tenor.com/tLs_ViApc7AAAAAC/shy-hi.gif' width='243'>
+## 🐱 About Me : <img align='right' src='https://media.tenor.com/tLs_ViApc7AAAAAC/shy-hi.gif' width='205'>
 
 - Hi, I’m thanakitth. <br/>
 - I’m interested in Softwear Engineer. <br/>
