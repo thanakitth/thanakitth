@@ -3,9 +3,6 @@
 - Hi, I’m thanakitth.
 - I’m studying at Rajamangala University of Technology Lanna Chiangmai. <br/>
   Computer Engineering Department.
-- I’m interested in Softwear Engineer.
-- I like to play games.
-- I especially like rhythm games.
 <hr>
 
 ## 🐼 Contact :
