@@ -4,10 +4,6 @@
 - I’m studying at Rajamangala University of Technology Lanna Chiangmai. <br/>
   Computer Engineering Department.
   
-  
-  
-  
-  
 <hr>
 
 ## 🐼 Contact :
@@ -23,6 +19,8 @@
 - Watch Anime
 - Play Games
 - Eat and Sleep
+
+
 
 
 
