@@ -15,7 +15,6 @@
 ## 🐴 My Hobby : <img align='right' src='https://media.tenor.com/Ge5zjJBIYLoAAAAC/jinx-flipzflops.gif' width='205'>
 
 - Read Manga
-- Play Football
 - Watch Anime
 - Play Games
 - Eat and Sleep
