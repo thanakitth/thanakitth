@@ -1,4 +1,4 @@
-## 🐱 About Me : <img align='right' src='https://media.tenor.com/tLs_ViApc7AAAAAC/shy-hi.gif' width='205'>
+## 🐱 About Me :
 
 - Hi, I’m thanakitth.
 - I’m studying at Rajamangala University of Technology Lanna Chiangmai. <br/>
@@ -13,7 +13,7 @@
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/8dTrhzty3D)
 <hr>
 
-## 🐴 My Hobby : <img align='right' src='https://media.tenor.com/Ge5zjJBIYLoAAAAC/jinx-flipzflops.gif' width='205'>
+## 🐴 My Hobby : 
 
 - Read Manga
 - Watch Anime
