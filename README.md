@@ -30,5 +30,5 @@
 
 
 <center>
-    <img src='[https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif](https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif)https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif'>
+    <img src='https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif'>
 </center>
